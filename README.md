@@ -2,7 +2,6 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on study data science
-- 😄 Pronouns: king
 - ⚡ Fun fact: badominton ga suki, yori mo anata
 
 <!---
